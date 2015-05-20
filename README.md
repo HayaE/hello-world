@@ -1,2 +1,5 @@
 # hello-world
-first try
+//first try
+
+System.out.println("HI");
+
